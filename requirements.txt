@@ -1,0 +1,6 @@
+numpy==1.16.1
+mss==4.0.1
+opencv-python==4.0.0.21
+Pillow==5.4.1
+pynput==1.4
+pyscreenshot==0.5.1
